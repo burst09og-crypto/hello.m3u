@@ -158,48 +158,204 @@ http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 52
+http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 53
+http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 54
+http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 55
+http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 56
+http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 57
+http://maxotts.maxdigitaltv.com/x-media/C210/master.m3u8
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 58
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",Special TV 58
+http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 59
+http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 60
+http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 61
-
+http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 62
-
+http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 63
-
+http://maxotts.maxdigitaltv.com/x-media/C249/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 64
-
+http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 65
-
+http://maxotts.maxdigitaltv.com/x-media/C265/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 66
-
+http://maxotts.maxdigitaltv.com/x-media/C266/master.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 67
+http://maxotts.maxdigitaltv.com/x-media/C270/master.m3u8
 
-
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 68
-
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels", SDp TV 68
+http://maxotts.maxdigitaltv.com/x-media/C271/master.m3u
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 69
+http://maxotts.maxdigitaltv.com/x-media/C275/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 70
+http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 71
+http://maxotts.maxdigitaltv.com/x-media/C280/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 72
+http://maxotts.maxdigitaltv.com/x-media/C281/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 73
+http://maxotts.maxdigitaltv.com/x-media/C282/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 74
+http://maxotts.maxdigitaltv.com/x-media/C33/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 75
+http://maxotts.maxdigitaltv.com/x-media/C35/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 76
+http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 77
+http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 78
+http://maxotts.maxdigitaltv.com/x-media/C412/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",SP CH TV 79
+http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8 
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 80
+http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 81
+http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 82
+http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 83
+http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 84
+http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 85
+http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 86
+http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 87
+http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 88
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 89
+http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 90
+http://maxotts.maxdigitaltv.com/x-media/C651/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 91
+http://maxotts.maxdigitaltv.com/x-media/C652/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 92
+http://maxotts.maxdigitaltv.com/x-media/C655/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 93
+http://maxotts.maxdigitaltv.com/x-media/C656/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 94
+http://maxotts.maxdigitaltv.com/x-media/C665/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 95
+http://maxotts.maxdigitaltv.com/x-media/C667/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 96
+http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 97
+http://maxotts.maxdigitaltv.com/x-media/C671/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 98
+http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV Sp 99
+http://maxotts.maxdigitaltv.com/x-media/C683/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 100
+http://maxotts.maxdigitaltv.com/x-media/C772/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 101
+http://maxotts.maxdigitaltv.com/x-media/C776/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 102
+http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 103
+http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 104
+http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 105
+http://maxotts.maxdigitaltv.com/x-media/C87/audio_track1.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 106
+http://maxotts.maxdigitaltv.com/x-media/C88/index.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 107
+http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 108
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 109
+http://maxotts.maxdigitaltv.com/x-media/C90/audio_track1.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 110
+http://maxotts.maxdigitaltv.com/x-media/C91/audio_track1.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 111
+http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 112
+http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 1111
+http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 113
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 114
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 115
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 116
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 118
+
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 117
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV 1" group-title="My Channels",TV 119
+
 
 
 
